@@ -18,6 +18,8 @@ data ที่ใช้ train province classification
 ระบบจะได้รับ input มาเป็นรูปรถเต็มค้น ซึ้งสามารถใส่รูปภาพไว้ที่ไฟล์ test ได้เลย ซึ่งสามารถใส่กี่รูปก็ได้
 มี label ของ test อยู่ในไฟล์ label_test
 
+in out file have licence_plate, register, province
+
 ในการทำงานของระบบจะมีทั้งหมดอยู่ 3 ส่วน
 
 ส่วนที่ 1 : ตรวจจับป้ายทะเบียน 
